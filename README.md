@@ -5,27 +5,27 @@
 
 ​																																																---主要为了便于讲述
 
-![image-20220208210650992](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208210650992.png)
+![image-20220208210650992](https://github.com/666dhl/MyWebServer/blob/main/images/4d78890f8f3229c3bc3c83b263b84f2.png)
 
 ### 1.主线程
 
-![image-20220208210823604](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208210823604.png)
+![image-20220208210823604](https://github.com/666dhl/MyWebServer/blob/main/images/6422267dcf559e49349d74b8d7df38a.png)
 
-![image-20220209011236504](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220209011236504.png)
+![image-20220209011236504](https://github.com/666dhl/MyWebServer/blob/main/images/ca491cf34b62d9c2592ec6b9562ba68.png)
 
-![image-20220209011207617](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220209011207617.png)
+![image-20220209011207617](https://github.com/666dhl/MyWebServer/blob/main/images/0bc1e860b7fd799ca06b6de12e27925.png)
 
 ### 2.线程池
 
-![image-20220208210919653](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208210919653.png)
+![image-20220208210919653](https://github.com/666dhl/MyWebServer/blob/main/images/16ffd2d834ee4f0f3089c12a2d11ef8.png)
 
-![image-20220208211014624](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208211014624.png)
+![image-20220208211014624](https://github.com/666dhl/MyWebServer/blob/main/images/99d82fee92a209aae5fa81b8092c9c6.png)
 
 ### 3.requestdata结构体
 
-![image-20220208210947849](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208210947849.png)
+![image-20220208210947849](https://github.com/666dhl/MyWebServer/blob/main/images/cc32028a46237348beef01bd8d5c3ff.png)
 
-![image-20220208211211346](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208211211346.png)
+![image-20220208211211346](https://github.com/666dhl/MyWebServer/blob/main/images/aa57ac4b89d59912ceb77242d1f5f1f.png)
 
 ## 2.详细注释
 详细的源码讲解请看注释
@@ -113,9 +113,9 @@ http报文解析和报文响应 解析过程状态机如上图所示.
 目录会将目录文件下的文件名称以及类型，发送给客户端。
 ```
 
-![image-20220208215814204](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208215814204.png)
+![image-20220208215814204](https://github.com/666dhl/MyWebServer/blob/main/images/439b896611197f357810174487339df.png)
 
-![image-20220208215829582](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208215829582.png)
+![image-20220208215829582](https://github.com/666dhl/MyWebServer/blob/main/images/ac199901b782985c3d994ecb0cee98b.png)
 
 ## 4.编译及测试
 
@@ -140,10 +140,10 @@ http报文解析和报文响应 解析过程状态机如上图所示.
 
 ### 版本1.0
 
-![image-20220208221259764](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208221259764.png)
+![image-20220208221259764](https://github.com/666dhl/MyWebServer/blob/main/images/899485d6ac3cb3c77053eb82e30d848.png)
 
 ### 版本2.0
 
-![image-20220208222308146](C:\Users\纠结伦\AppData\Roaming\Typora\typora-user-images\image-20220208222308146.png)
+![image-20220208222308146](https://github.com/666dhl/MyWebServer/blob/main/images/7f4ff9c93e5ace08f998866b57c28da.png)
 
 明显看出修改后的版本，性能更强。
