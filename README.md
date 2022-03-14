@@ -5,13 +5,13 @@
 
 ​																																																---主要为了便于讲述
 
-![image-20220208210650992](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_4d78890f8f3229c3bc3c83b263b84f2.png)
+![image-20220208210650992](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_4d78890f8f3229c3bc3c83b263b84f2_DUCG_NPBkY.png)
 
 ### 1.主线程
 
-![image-20220208210823604](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_6422267dcf559e49349d74b8d7df38a.png)
+![image-20220208210823604](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_6422267dcf559e49349d74b8d7df38a_5nSTo7JQ1R.png)
 
-![image-20220209011236504](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_ca491cf34b62d9c2592ec6b9562ba68.png)
+![image-20220209011236504](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_ca491cf34b62d9c2592ec6b9562ba68_pjXRm931U2.png)
 
 ![image-20220209011207617](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_0bc1e860b7fd799ca06b6de12e27925_ase6LqbAJD.png)
 
@@ -19,13 +19,13 @@
 
 ![image-20220208210919653](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_16ffd2d834ee4f0f3089c12a2d11ef8_39NtSCv4VA.png)
 
-![image-20220208211014624](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_99d82fee92a209aae5fa81b8092c9c6.png)
+![image-20220208211014624](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_99d82fee92a209aae5fa81b8092c9c6_Kk0cF5nuzM.png)
 
 ### 3.requestdata结构体
 
-![image-20220208210947849](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_cc32028a46237348beef01bd8d5c3ff.png)
+![image-20220208210947849](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_cc32028a46237348beef01bd8d5c3ff_0rRJYeoxBZ.png)
 
-![image-20220208211211346](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_aa57ac4b89d59912ceb77242d1f5f1f.png)
+![image-20220208211211346](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_aa57ac4b89d59912ceb77242d1f5f1f_t5yNcJ0W7D.png)
 
 ## 2.详细注释
 详细的源码讲解请看注释
@@ -113,9 +113,9 @@ http报文解析和报文响应 解析过程状态机如上图所示.
 目录会将目录文件下的文件名称以及类型，发送给客户端。
 ```
 
-![image-20220208215814204](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_439b896611197f357810174487339df.png)
+![image-20220208215814204](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_439b896611197f357810174487339df_N1ML_2Un0m.png)
 
-![image-20220208215829582](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_ac199901b782985c3d994ecb0cee98b.png)
+![image-20220208215829582](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_ac199901b782985c3d994ecb0cee98b_zmt05TwCiJ.png)
 
 ## 4.编译及测试
 
@@ -140,10 +140,10 @@ http报文解析和报文响应 解析过程状态机如上图所示.
 
 ### 版本1.0
 
-![image-20220208221259764](https://github.com/666dhl/MyWebServer/blob/main/images/899485d6ac3cb3c77053eb82e30d848.png)
+![image-20220208221259764](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_899485d6ac3cb3c77053eb82e30d848_OFR3bzkoj9.png)
 
 ### 版本2.0
 
-![image-20220208222308146](https://github.com/666dhl/MyWebServer/blob/main/images/7f4ff9c93e5ace08f998866b57c28da.png)
+![image-20220208222308146](https://github.com/666dhl/MyWebServer/blob/main/images/www.yalijuda.com_7f4ff9c93e5ace08f998866b57c28da_HD6IkhlSE7.png)
 
 明显看出修改后的版本，性能更强。
